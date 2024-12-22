@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>التوعية بالأمن السيبراني</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #007bff;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>دليلك لحماية حساباتك من الهجمات السيبرانية</h1>
+</header>
+
+<section>
+    <h2>نصائح لحماية نفسك:</h2>
+    <ul>
+        <li>قم بتحديث كلمات المرور بشكل دوري.</li>
+        <li>استخدم كلمات مرور قوية وصعبة التخمين.</li>
+        <li>لا تفتح الروابط أو المرفقات من مصادر غير موثوقة.</li>
+        <li>فعل المصادقة الثنائية على حساباتك لتأمينها أكثر.</li>
+        <li>كن حذرًا من الرسائل الإلكترونية التي تطلب منك بيانات شخصية.</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 جميع الحقوق محفوظة</p>
+</footer>
+
+</body>
+</html>
